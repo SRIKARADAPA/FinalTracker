@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Final Tracker</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="track">Track</string>
+    <string name="add">Add</string>
+    <string name="admin">admin</string>
+    <string name="user">user</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="addButton">ADD</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
